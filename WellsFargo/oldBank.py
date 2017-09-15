@@ -11,10 +11,10 @@ bankKey = int (input(askBankKey));
     # Wells Fargo - Automatic Teller Machine (Definitions)
 
 def goBank():
-print (bankWelcome);
-print (askBankNumber);
-print (askBankKey);
-print (bankGoodbye);
+    print (bankWelcome);
+    print (askBankNumber);
+    print (askBankKey);
+    print (bankGoodbye);
 
     # Wells Fargo - Automatic Teller Machine (Constructors)
 
